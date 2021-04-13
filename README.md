@@ -1,2 +1,2 @@
 # EasyStacking
-Stacking / blending realisation with using simple methods.
+Stacking / blending realization with using simple methods.
